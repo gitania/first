@@ -22,6 +22,7 @@ public class Cube4h {
         label.setPreferredSize(new Dimension(400, 400));
         frame.getContentPane().add(label);
         //new comment
+        //second new comment
         //Display the window.
         frame.pack();
         frame.setVisible(true);
